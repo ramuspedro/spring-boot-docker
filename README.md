@@ -36,6 +36,9 @@ $ java -version
 
 # verify javac version
 $ javac -version
+
+# verify maven version
+$ mvn -version
 ```
 
 ## Docker cheat sheet
